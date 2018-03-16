@@ -430,7 +430,7 @@
     </feature>
     <feature id="0x2121">
       <params>
-        <param name="divert" value="1" />
+        <param name="divert" value="0" />
         <param name="naturalScrollDirection" value="1" />
       </params>
       <controlids />
