@@ -101,8 +101,8 @@
           </actions>
         </controlid>
         <controlid rawxy="1" actiongroup7="win8nav2" actiongroup8="virtualdesktop" group="3" groupmask="15" id="0x0056" reprogrammable="true" type="mouse" taskidlist="forwardTaskidList" gestureidlist="othersGestureidList" actiongrouplist="win8NavList" actiongroup="virtualdesktop">
-          <task duplicate="61" id="0x003e" class="browsercommand">
-            <params command="forward" />
+          <task id="0x003a" class="mouseclick">
+            <params />
           </task>
           <remappableids>
             <remappableid controlid="0x0000" taskid="0x0000" />
