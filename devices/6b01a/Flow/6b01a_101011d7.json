@@ -1,6 +1,6 @@
 {
-   "created" : 1520527026,
-   "current_host" : 1,
+   "created" : 1521390845,
+   "current_host" : 0,
    "device_id" : 438298,
    "fw_version" : "",
    "global_settings" : {
@@ -17,13 +17,45 @@
       {
          "bottom_edge_threshold" : 5,
          "bridges" : [],
+         "bus_type" : "Bluetooth",
+         "configured" : true,
+         "desktop_workarea_height" : 1080,
+         "desktop_workarea_width" : 1240,
+         "disable_flow_multiple_monitor" : 0,
+         "host_id" : "EDD4DBFF-FB5F-4FDF-96A8-B27E6BF8E7DC_JIVANSSURFACE",
+         "host_index" : 0,
+         "host_name" : "JIvansSurface",
+         "keyboards_device_info" : [],
+         "left_edge_threshold" : 5,
+         "monitors" : [
+            {
+               "height" : 1216,
+               "width" : 1824,
+               "work_offset_x" : 1824,
+               "work_offset_y" : 1216
+            }
+         ],
+         "os_major_version" : "10",
+         "os_minor_version" : "0",
+         "os_patch_version" : "0",
+         "os_type" : "Windows",
+         "revision" : 1,
+         "right_edge_threshold" : 5,
+         "status" : 1,
+         "top_edge_threshold" : 5,
+         "topleft_coordinate_x" : 0,
+         "topleft_coordinate_y" : 0
+      },
+      {
+         "bottom_edge_threshold" : 5,
+         "bridges" : [],
          "bus_type" : "",
          "configured" : false,
          "desktop_workarea_height" : 1080,
          "desktop_workarea_width" : 1240,
          "disable_flow_multiple_monitor" : 0,
          "host_id" : "",
-         "host_index" : 0,
+         "host_index" : 1,
          "host_name" : "",
          "keyboards_device_info" : [],
          "left_edge_threshold" : 5,
@@ -42,38 +74,6 @@
          "revision" : 0,
          "right_edge_threshold" : 5,
          "status" : 0,
-         "top_edge_threshold" : 5,
-         "topleft_coordinate_x" : 0,
-         "topleft_coordinate_y" : 0
-      },
-      {
-         "bottom_edge_threshold" : 5,
-         "bridges" : [],
-         "bus_type" : "Bluetooth",
-         "configured" : true,
-         "desktop_workarea_height" : 1080,
-         "desktop_workarea_width" : 1240,
-         "disable_flow_multiple_monitor" : 0,
-         "host_id" : "custom",
-         "host_index" : 1,
-         "host_name" : "custom",
-         "keyboards_device_info" : [],
-         "left_edge_threshold" : 5,
-         "monitors" : [
-            {
-               "height" : 1684,
-               "width" : 5700,
-               "work_offset_x" : 5700,
-               "work_offset_y" : 1684
-            }
-         ],
-         "os_major_version" : "10",
-         "os_minor_version" : "0",
-         "os_patch_version" : "0",
-         "os_type" : "Windows",
-         "revision" : 1,
-         "right_edge_threshold" : 5,
-         "status" : 1,
          "top_edge_threshold" : 5,
          "topleft_coordinate_x" : 0,
          "topleft_coordinate_y" : 0
@@ -112,6 +112,6 @@
       }
    ],
    "unit_id" : 269488599,
-   "updated" : 1520527026,
+   "updated" : 1521390845,
    "version" : "1.0"
 }
